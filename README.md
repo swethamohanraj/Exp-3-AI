@@ -1,7 +1,7 @@
 # EXP03- Implement A* search algorithm for a Graph
 
-#### NAME: Aashima Nazreen Sayeed S
-#### REG NO: 212221240002
+#### NAME: K.M.Swetha
+#### REG NO: 212221240055
 
 ## AIM:
 To ImplementA * Search algorithm for a Graph using Python 3.
